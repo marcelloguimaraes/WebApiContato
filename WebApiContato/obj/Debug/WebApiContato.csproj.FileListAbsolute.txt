@@ -1,0 +1,127 @@
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\WebApiContato.dll.config
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\Swagger.XML
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\WebApiContato.dll
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\WebApiContato.pdb
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\Antlr3.Runtime.dll
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\Microsoft.Owin.Cors.dll
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\Microsoft.Owin.dll
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\Microsoft.Web.Infrastructure.dll
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\Newtonsoft.Json.dll
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\Owin.dll
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\Swashbuckle.Core.dll
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\System.Net.Http.Formatting.dll
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\System.Web.Cors.dll
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\System.Web.Helpers.dll
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\System.Web.Http.Cors.dll
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\System.Web.Http.dll
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\System.Web.Http.WebHost.dll
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\System.Web.Mvc.dll
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\System.Web.Optimization.dll
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\System.Web.Razor.dll
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\System.Web.WebPages.Deployment.dll
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\System.Web.WebPages.dll
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\System.Web.WebPages.Razor.dll
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\WebGrease.dll
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\Microsoft.Owin.xml
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\Microsoft.Owin.Cors.xml
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\Newtonsoft.Json.xml
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\System.Net.Http.Formatting.xml
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\System.Web.Http.xml
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\System.Web.Http.Cors.xml
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\System.Web.Helpers.xml
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\System.Web.Http.WebHost.xml
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\System.Web.Mvc.xml
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\System.Web.Optimization.xml
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\System.Web.Razor.xml
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\System.Web.WebPages.xml
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\System.Web.WebPages.Deployment.xml
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\System.Web.WebPages.Razor.xml
+D:\Projetos Marcello\WebApiContato\WebApiContato\bin\Antlr3.Runtime.pdb
+D:\Projetos Marcello\WebApiContato\WebApiContato\obj\Debug\WebApiContato.dll
+D:\Projetos Marcello\WebApiContato\WebApiContato\obj\Debug\WebApiContato.pdb
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\WebApiContato.dll.config
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\Swagger.XML
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\WebApiContato.dll
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\WebApiContato.pdb
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\Antlr3.Runtime.dll
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\Microsoft.Owin.Cors.dll
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\Microsoft.Owin.dll
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\Newtonsoft.Json.dll
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\Owin.dll
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\Swashbuckle.Core.dll
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\System.Net.Http.Formatting.dll
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\System.Web.Cors.dll
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\System.Web.Helpers.dll
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\System.Web.Http.Cors.dll
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\System.Web.Http.dll
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\System.Web.Http.WebHost.dll
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\System.Web.Mvc.dll
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\System.Web.Optimization.dll
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\System.Web.Razor.dll
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\System.Web.WebPages.Deployment.dll
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\System.Web.WebPages.dll
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\System.Web.WebPages.Razor.dll
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\WebGrease.dll
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\Microsoft.Owin.xml
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\Microsoft.Owin.Cors.xml
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\Newtonsoft.Json.xml
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\System.Net.Http.Formatting.xml
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\System.Web.Http.xml
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\System.Web.Http.Cors.xml
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\System.Web.Helpers.xml
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\System.Web.Http.WebHost.xml
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\System.Web.Mvc.xml
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\System.Web.Optimization.xml
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\System.Web.Razor.xml
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\System.Web.WebPages.xml
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\System.Web.WebPages.Deployment.xml
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\System.Web.WebPages.Razor.xml
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\bin\Antlr3.Runtime.pdb
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\obj\Debug\WebApiContato.csprojResolveAssemblyReference.cache
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\obj\Debug\WebApiContato.dll
+C:\Users\marcello.guimaraes\Desktop\WebApiContato\WebApiContato\obj\Debug\WebApiContato.pdb
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\WebApiContato.dll.config
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\Swagger.XML
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\WebApiContato.dll
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\WebApiContato.pdb
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\Antlr3.Runtime.dll
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\Microsoft.Owin.Cors.dll
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\Microsoft.Owin.dll
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\Microsoft.Web.Infrastructure.dll
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\Newtonsoft.Json.dll
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\Owin.dll
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\Swashbuckle.Core.dll
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\System.Net.Http.Formatting.dll
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\System.Web.Cors.dll
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\System.Web.Helpers.dll
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\System.Web.Http.Cors.dll
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\System.Web.Http.dll
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\System.Web.Http.WebHost.dll
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\System.Web.Mvc.dll
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\System.Web.Optimization.dll
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\System.Web.Razor.dll
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\System.Web.WebPages.Deployment.dll
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\System.Web.WebPages.dll
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\System.Web.WebPages.Razor.dll
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\WebGrease.dll
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\Microsoft.Owin.xml
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\Microsoft.Owin.Cors.xml
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\Newtonsoft.Json.xml
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\System.Net.Http.Formatting.xml
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\System.Web.Http.xml
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\System.Web.Http.Cors.xml
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\System.Web.Helpers.xml
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\System.Web.Http.WebHost.xml
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\System.Web.Mvc.xml
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\System.Web.Optimization.xml
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\System.Web.Razor.xml
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\System.Web.WebPages.xml
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\System.Web.WebPages.Deployment.xml
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\System.Web.WebPages.Razor.xml
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\bin\Antlr3.Runtime.pdb
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\obj\Debug\WebApiContato.csprojAssemblyReference.cache
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\obj\Debug\WebApiContato.csproj.CoreCompileInputs.cache
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\obj\Debug\WebApiContato.csproj.CopyComplete
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\obj\Debug\WebApiContato.dll
+M:\Programação\Projetos VS 2017\WebApiContato\WebApiContato\obj\Debug\WebApiContato.pdb
